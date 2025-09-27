@@ -18,6 +18,9 @@ fn main() {  // Le FN déclare une fonction nommée main, le point d'entrée du 
 
 
     io::stdin() // Appelle la fonction stdin de la bibliothèque io pour obtenir une poignée vers l'entrée standard (stdin)
+    // IO est l'abréviation de Input/Output (Entrée/Sortie)
+    // Stdin est une fonction qui permet de lire les entrées de l'utilisateur depuis la console. 
+
     .read_line(&mut guess) // Prend l'entrée standard (stdin) et lit une ligne de texte, en stockant le résultat dans la variable guess. Le & indique que nous passons une référence à la variable guess, plutôt que la valeur elle-même.
     .expect("Failed to read line");  // Permet de récupérer une erreur si jamais la lecture de la ligne échoue, il existe deux types OK et Err en Rust
 
@@ -28,3 +31,4 @@ fn main() {  // Le FN déclare une fonction nommée main, le point d'entrée du 
 
 
 // lien vers le cours du Rust Book : https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#storing-values-with-variables
+
