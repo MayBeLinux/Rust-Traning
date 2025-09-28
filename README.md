@@ -112,10 +112,10 @@ fn plus_long<'a>(x: &'a str, y: &'a str) -> &'a str {
 
 ### 🔗 Ressources sacrées
 
-📖 Le Rust Book (la bible vivante du langage) : https://doc.rust-lang.org/book/
-📚 Rust By Example : https://doc.rust-lang.org/rust-by-example/
-📦 The Cargo Book : https://doc.rust-lang.org/cargo/
-🦀 Rustlings (petits exercices pratiques) : https://github.com/rust-lang/rustlings
+- 📖 Le Rust Book (la bible vivante du langage) : https://doc.rust-lang.org/book/
+- 📚 Rust By Example : https://doc.rust-lang.org/rust-by-example/
+- 📦 The Cargo Book : https://doc.rust-lang.org/cargo/
+- 🦀 Rustlings (petits exercices pratiques) : https://github.com/rust-lang/rustlings
 
 
 
