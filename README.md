@@ -41,18 +41,23 @@ cargo update
 ---
 
 ## Petits Rappels
-// Immuable par défaut
+- Immuable par défaut
+```Rust
 let x = 42;
-
-// Mutable
+```
+- Mutable
+```Rust
 let mut y = 0;
-
-// Boucle classique
+```
+- Boucle classique
+```Rust
 for i in 0..5 {
     println!("i = {}", i);
 }
+```
 
-// Gestion d'erreurs façon "samouraï zen"
+- Gestion d'erreurs façon "samouraï zen"
+```Rust
 fn div(a: i32, b: i32) -> Result<i32, String> {
     if b == 0 {
         Err("Division par zéro 🌀".into())
@@ -60,11 +65,13 @@ fn div(a: i32, b: i32) -> Result<i32, String> {
         Ok(a / b)
     }
 }
-
-// Option : quand une valeur peut exister... ou pas
+```
+- Option : quand une valeur peut exister... ou pas
+```Rust
 fn premier(vec: &Vec<i32>) -> Option<i32> {
     vec.get(0).copied()
 }
+```
 
 
 ## CheetSheet Express 
