@@ -34,36 +34,47 @@ fn main() {
     // Différents calcul mathématiques de base !
     
     //addition 
-    let sum = 5 + 10;
+    let _sum = 5 + 10;
 
     // soustraction
-    let soustraction = 5 - 10;
+    let _soustraction = 5 - 10;
 
     // multiplication
-    let multiplication = 5 x 10;
+    let _multiplication = 5 * 10;
 
     // division
-    let division = 5 / 10;
+    let _division = 5 / 10;
 
     // reste
-    let reste = 5 % 10;
+    let _reste = 5 % 10;
 
 
     //----------------------------------------------------------------------------------------------------------
     // Les booléen 
 
-    let t = true;
+    let _t = true;
 
-    let f: bool = false; // Le type booléen prend 1 octet en mémoire !
+    let _f: bool = false; // Le type booléen prend 1 octet en mémoire !
     
     
 
     //-----------------------------------------------------------------------------------------------------------
     // Les tuples 
 
-    let tuples: (i32, f64, u8) = (500, 6.4, 1);
-    
+    let _tuples: (i32, f64, u8) = (500, 6.4, 1); // Ceci assigne les types (a gauche) au valeurs inscrites (a droite) comme par exemple i32 = 500 comme f64 = 6.4 
+
+
+    // Nous pouvons donc utiliser une méthodes que l'on appelle la Déstructuration pour récupérer les valeurs individuellement dans chaques variables distinctes.
+    // Déstructuration 1
+    let new_tuples = (500, 6.4, 1);  // La je viens d'assigner que x prend 500 / y prend 6.4 / z prend 1
+
+    {
+    // Nous pouvons aussi accéder a chaque variables en utilisant leur index dans le tuples comme exemple ci dessous/
+    println!("Tuple X {}" , new_tuples.0); // Va afficher 500
+    println!("Tuple Y {}" , new_tuples.1); // Va afficher 6.4
+    println!("Tuple Z {}" , new_tuples.2); // Va afficher 'z'
     }
+}
 
 
 
