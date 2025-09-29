@@ -15,7 +15,7 @@ fn main() {
 
     let secret_number = rand::thread_rng().gen_range(1..=100); // Génère un nombre aléatoire entre 1 et 100 inclus.
 
-    println!("The secret number is {}" , secret_number); // Affiche le nombre secret (pour le débogage).
+    //println!("The secret number is {}" , secret_number); // Affiche le nombre secret (pour le débogage).
     loop {
     println!("Please input your guess");
 
@@ -65,4 +65,3 @@ fn main() {
 
 
 // Informations utiles, je jamais oublier " ; " à la fin des instructions ! 
-
