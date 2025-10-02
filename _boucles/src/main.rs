@@ -19,6 +19,7 @@ fn main() {
   }
 
   index(); // appel de la fonction index.
+  inversement(); // appel de la fonction inversement.
 }
 
 fn index() {
@@ -31,4 +32,14 @@ fn index() {
 
         index += 1; // on incrémente index de 1 pour passer à l'élément suivant du tableau.
     }
+}
+
+fn inversement() {
+    for number in (1..4).rev() { // .rev() permet d'inverser l'ordre de la plage 1 à 4 (exclu).
+    // .rev() s'appelle une méthode (function) qui est appelée sur l'objet (1..4) qui est une plage.
+    // une méthode en Rust s'appelle avec un point (.) suivi du nom de la méthode et des parenthèses ().
+        println!("{number}");
+
+    }
+    println!("List off");
 }
