@@ -1,3 +1,5 @@
+// EXERCICE 1 : Slices
+
 fn main() {
     let a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
     let slice = &a[0..3];
