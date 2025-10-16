@@ -28,5 +28,6 @@ fn affichage_du_texte(texte: &str) {
         println!("Voici vôtre texte : {}", texte);
 
         // Fin de la fonction  
-        // Reprise Demain le 17/10/2025                 
+        // Reprise Demain le 17/10/2025
+        // Vérificaion erreur par cargo et executables             
     }
