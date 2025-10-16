@@ -30,5 +30,5 @@ fn affichage_du_texte(texte: &str) {
         // Fin de la fonction  
         // Reprise Demain le 17/10/2025
         // Vérificaion erreur par cargo et executables    
-        // Rajouter du calcul         
+        // Rajouter du calcul dans de nouvelle fonction         
     }
