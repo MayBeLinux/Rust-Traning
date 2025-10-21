@@ -1,0 +1,178 @@
+cargo:rerun-if-changed=C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mozjpeg-sys-2.2.3\vendor
+cargo:include=C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\build\mozjpeg-sys-0bd45e0725ead826\out\include;C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mozjpeg-sys-2.2.3\vendor
+cargo:lib_version=62
+cargo:rerun-if-env-changed=SOURCE_DATE_EPOCH
+cargo:warning=NASM not installed. Mozjpeg's SIMD won't be enabled: program not found
+OUT_DIR = Some(C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\build\mozjpeg-sys-0bd45e0725ead826\out)
+OPT_LEVEL = Some(0)
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_ENCODED_RUSTFLAGS = Some()
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VCToolsVersion
+VCToolsVersion = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps;C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug;C:\Users\joshu\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files\PowerShell\7-preview;C:\flutter\flutter\bin\cache\dart-sdk\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Syncronorm\Depence3\codecs\Visio;C:\ProgramData\codecs\Visio;C:\Users\joshu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\Lua\5.1;C:\Program Files (x86)\Lua\5.1\clibs;C:\Program Files\Mullvad VPN\resources;C:\Program Files\WireGuard\;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\komorebi\bin\;C:\Program Files\whkd\bin\;C:\Users\joshu\.cargo\bin;C:\Users\joshu\scoop\shims;C:\Program Files\lua;C:\Users\joshu\AppData\Local\Microsoft\WindowsApps;C:\Users\joshu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\joshu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages;C:\flutter\flutter\bin;C:\SFML\include;C:\SFML\lib;C:\MinGw64\mingw64\bin;C:\Users\joshu\AppData\Local\GitHubDesktop\bin;C:\luaforwindows-master\files;C:\KotlinNative\bin;C:\Program Files\Tesseract-OCR;C:\Users\joshu\AppData\Roaming\npm;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MA Lighting\grandMA3 onPC 2.3.1.1\grandMA3 onPC 2.3.1.1.exe;;c:\Users\joshu\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;C:\Users\joshu\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = Some(C: \SFML\include)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(true)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+OUT_DIR = Some(C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\build\mozjpeg-sys-0bd45e0725ead826\out)
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+TARGET = Some(x86_64-pc-windows-msvc)
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+jcapimin.c
+jcapistd.c
+jccoefct.c
+jccolor.c
+jcdctmgr.c
+jchuff.c
+jcext.c
+jcmainct.c
+jcinit.c
+jcmarker.c
+jcmaster.c
+jcparam.c
+jcomapi.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+jcphuff.c
+jcprepct.c
+jcsample.c
+jctrans.c
+jdapistd.c
+jdapimin.c
+jdatadst.c
+jdatasrc.c
+jdcoefct.c
+jddctmgr.c
+jdcolor.c
+jdhuff.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+jdinput.c
+jdmainct.c
+jdmarker.c
+jdmaster.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+jdmerge.c
+jdphuff.c
+jdsample.c
+jdpostct.c
+jdtrans.c
+jerror.c
+jfdctflt.c
+jfdctfst.c
+jfdctint.c
+jidctflt.c
+jidctfst.c
+jidctint.c
+jidctred.c
+jmemmgr.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+jmemnobs.c
+jquant1.c
+jquant2.c
+jutils.c
+jsimd_none.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rustc-link-search=native=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\atlmfc\lib\x64
+cargo:rustc-link-lib=static=mozjpeg62
+cargo:rustc-link-search=native=C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\build\mozjpeg-sys-0bd45e0725ead826\out

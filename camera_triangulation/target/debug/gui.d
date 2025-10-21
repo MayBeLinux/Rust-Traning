@@ -1,0 +1,1 @@
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\gui.exe: C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\src\config.rs C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\src\main_gui.rs C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\src\math.rs

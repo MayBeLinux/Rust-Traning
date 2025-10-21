@@ -1,0 +1,11 @@
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\approx-987c52f48539bfce.d: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\libapprox-987c52f48539bfce.rlib: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\libapprox-987c52f48539bfce.rmeta: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs:

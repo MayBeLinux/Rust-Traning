@@ -1,0 +1,11 @@
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\nokhwa-dbde14eb897e3e0d.d: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\mod.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\capture\mod.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\capture\msmf_backend.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\camera.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\init.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\query.rs
+
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\libnokhwa-dbde14eb897e3e0d.rmeta: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\mod.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\capture\mod.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\capture\msmf_backend.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\camera.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\init.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\query.rs
+
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\lib.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\mod.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\capture\mod.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\backends\capture\msmf_backend.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\camera.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\init.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\nokhwa-0.10.9\src\query.rs:

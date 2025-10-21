@@ -1,0 +1,10 @@
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\windows_threading-a2f4a3c0ecdd3fbe.d: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\bindings.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\pool.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\../readme.md
+
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\libwindows_threading-a2f4a3c0ecdd3fbe.rlib: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\bindings.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\pool.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\../readme.md
+
+C:\Users\joshu\DEV\GitHub\Rust-Training\camera_triangulation\target\debug\deps\libwindows_threading-a2f4a3c0ecdd3fbe.rmeta: C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\lib.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\bindings.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\pool.rs C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\../readme.md
+
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\lib.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\bindings.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\pool.rs:
+C:\Users\joshu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-threading-0.1.0\src\../readme.md:
