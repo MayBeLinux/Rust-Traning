@@ -1,7 +1,7 @@
-use std::io;
+use std::io; // Importation de la bibliothèque standard pour les entrées/sorties
 
-struct User {
-    name: String,
+struct User { // Définition de la struct User
+    name: String, // Propriété du nom de l'utilisateur
     age: u8,
     sexe: String,
 }
@@ -19,7 +19,7 @@ fn main() {
 
 fn choisir(nombre: &str) {
     // Première approche: vérifier si c'est un nombre valide
-    let result = match nombre.parse::<i32>() {
+    let result = match nombre.parse::<i32>() { // parse() tente de convertir la chaîne en i32
         Ok(n) => match n {
             1 => String::from("Vous avez selectionné le nombre 1"),
             2 => String::from("Vous avez selectionné le nombre 2"),
@@ -29,7 +29,7 @@ fn choisir(nombre: &str) {
         },
         Err(_) => String::from("Ceci n'est pas une entrée valide"),
     };
-    affichage_du_texte(&result);
+    affichage_du_texte(&result); // Emprunt de la référence de result
 
 
     println!("Entre le nom de l'utilisateur : ");
