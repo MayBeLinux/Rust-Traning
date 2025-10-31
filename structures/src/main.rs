@@ -6,11 +6,20 @@ struct api_sender {
     retries:u8,}
 
 
-fn main(value: String , number: i32 , flag: bool) -> api_sender {
-    let api_sender = api_sender {
+fn main() {
+    let api = api_sender {
         api_key: String::from("your_api_key"),
         endpoint: String::from("https://api.example.com"),
         timeout: 30,
         retries: 3,
     };
+    afficher(&api)
 }
+
+fn afficher(afficher: &api_sender) {
+    println!("API Key: {}", afficher.api_key);
+    println!("Endpoint: {}", afficher.endpoint);
+    println!("Timeout: {}", afficher.timeout);
+    println!("Retries: {}", afficher.retries);
+}
+
